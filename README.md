@@ -6,6 +6,9 @@ A user-friendly Blender addon for importing Forza Horizon and Forza Motorsport c
 ![Version](https://img.shields.io/badge/version-1.3.2-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
+<img width="274" height="542" alt="image" src="https://github.com/user-attachments/assets/475fa4d4-2734-4155-ae14-1d53dc2c8aed" />
+
+
 ## Features
 
 - **Automatic Discovery**: Recursively finds all `.modelbin` files in the selected car folder
