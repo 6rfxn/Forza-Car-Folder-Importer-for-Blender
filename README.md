@@ -158,7 +158,7 @@ A: You don't need it! Just select the car folder. The script automatically finds
 
 ## 🙏 Credits
 
-**Original Script**: [Doliman100]([https://github.com/Doliman100))  
+**Original Script**: [Doliman100]([https://github.com/Doliman100]) 
 This addon is based on Doliman100's excellent Forza ModelBin importer script. All credit for the core import functionality goes to the original author.
 
 **Addon Development**: Community contributors
