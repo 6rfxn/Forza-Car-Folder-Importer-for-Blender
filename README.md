@@ -6,7 +6,7 @@ A user-friendly Blender addon for importing Forza Horizon and Forza Motorsport c
 ![Version](https://img.shields.io/badge/version-1.3.2-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-## 🎯 Features
+## Features
 
 - **Automatic Discovery**: Recursively finds all `.modelbin` files in the selected car folder
 - **Smart Path Resolution**: Automatically locates materials and textures without needing full game path
@@ -16,13 +16,13 @@ A user-friendly Blender addon for importing Forza Horizon and Forza Motorsport c
 - **Sidebar Panel**: Clean, integrated UI in Blender's 3D viewport sidebar
 - **Texture Caching**: Efficiently reuses textures across multiple meshes
 
-## 🎮 Compatibility
+## Compatibility
 
 | Game | Status |
 |------|--------|
 | **Forza Horizon 5** | ✅ Confirmed Working |
 | **Forza Horizon 4** | ✅ Confirmed Working |
-| Lower versions | 🟡 May or may not work |
+| Lower versions |  May or may not work |
 
 ## 📥 Installation
 
@@ -43,7 +43,7 @@ A user-friendly Blender addon for importing Forza Horizon and Forza Motorsport c
 3. Restart Blender
 4. Enable in `Edit > Preferences > Add-ons`
 
-## 🚀 Usage
+##  Usage
 
 ### Quick Start
 
@@ -83,7 +83,7 @@ koe_one_15/                    ← Select this folder
     └── carpaint.materialbin
 ```
 
-## ⚙️ Options
+##  Options
 
 ### Level of Detail (LOD)
 
@@ -100,7 +100,7 @@ koe_one_15/                    ← Select this folder
 - **Enabled**: Imports materials and textures (slower, complete)
 - **Disabled**: Geometry only (faster)
 
-## 🛠️ Troubleshooting
+##  Troubleshooting
 
 ### No files found
 
@@ -139,7 +139,7 @@ koe_one_15/                    ← Select this folder
 - Make sure no other import/export dialog is open
 - Restart Blender if issue persists
 
-## 📋 FAQ
+##  FAQ
 
 **Q: Do I need to extract game files first?**  
 A: Yes, use game extraction tools to get `.modelbin` files from the game archives.
@@ -163,11 +163,11 @@ This addon is based on Doliman100's excellent Forza ModelBin importer script. Al
 
 **Addon Development**: Community contributors
 
-## 📝 License
+## License
 
 MIT License - Feel free to modify and distribute
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -177,7 +177,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Export functionality
 - Performance optimizations
 
-## 🔄 Changelog
+## Changelog
 
 ### Version 1.3.2
 - Simplified folder selection instructions
