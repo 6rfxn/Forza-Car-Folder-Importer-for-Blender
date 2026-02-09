@@ -158,7 +158,7 @@ A: You don't need it! Just select the car folder. The script automatically finds
 
 ## 🙏 Credits
 
-**Original Script**: [Doliman100](https://github.com/Doliman100/Forza-Motorsport-file-formats)  
+**Original Script**: [Doliman100]([https://github.com/Doliman100))  
 This addon is based on Doliman100's excellent Forza ModelBin importer script. All credit for the core import functionality goes to the original author.
 
 **Addon Development**: Community contributors
@@ -176,10 +176,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - More material shader types
 - Export functionality
 - Performance optimizations
-
-## 📞 Support
-
-- **Original Script**: [Doliman100's Repository](https://github.com/Doliman100/Forza-Motorsport-file-formats)
 
 ## 🔄 Changelog
 
