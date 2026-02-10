@@ -35,15 +35,6 @@ A comprehensive Blender addon for importing Forza Horizon and Forza Motorsport c
 
 ## 📥 Installation
 
-### Method 1: Download Release
-1. Download the latest `forza_car_folder_importer.py`
-2. Open Blender
-3. Go to `Edit > Preferences > Add-ons`
-4. Click `Install...`
-5. Select the downloaded `.py` file
-6. Enable the addon by checking the checkbox
-
-### Method 2: Manual Installation
 1. Download `forza_car_folder_importer.py`
 2. Copy to Blender addons folder:
    - **Windows**: `%APPDATA%\Blender Foundation\Blender\[version]\scripts\addons\`
