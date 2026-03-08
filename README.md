@@ -1,6 +1,7 @@
 # Forza Car Folder Importer for Blender
 
 A Blender addon for importing Forza Horizon and Forza Motorsport car models with automatic material, texture, and tiling support.
+
 <img width="366" height="685" alt="image" src="https://github.com/user-attachments/assets/84b8c3c6-0968-4459-9cde-d5a5a3e521dc" />
 
 
